@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vedangkawalkar
-- 👀 I’m interested in App Development, AI/ML
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://www.linkedin.com/in/vedangkawalkar
+- 👀 I’m interested in App Development, AI/ML, and Data Science
+- 🌱 Computer Science Engineering graduate 
+- 💞️ I’m looking to collaborate on Data Science and AI/ML projects
+- 📫 How to reach me:
+- Linked in: www.linkedin.com/in/vedangkawalkar
+- email: vedangkawalkar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Am Lazy
